@@ -84,3 +84,15 @@ pulmoscan-pacs/
 ┌──────────────────────────────────┐
 │   Structured PDF Report Export   │
 └──────────────────────────────────┘
+
+
+## Installation
+
+1. **Clone the repository:**
+
+```bash
+git clone <https://github.com/AhmedBushraAhmed/Chest-XRay-Vision-AI>
+cd Chest-XRay-Vision-AI
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
